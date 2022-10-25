@@ -1,2 +1,2 @@
-# udiddit
+# Udiddit
 A Social News Aggregator
